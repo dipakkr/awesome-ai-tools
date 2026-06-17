@@ -95,6 +95,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 |-----------|---------------|-------------------|-----------|
 | Cheat Layer | • No-code automation<br>• Business process automation<br>• Task management | • Business Owners<br>• Operations Managers<br>• Team Leaders | [View Tool](http://www.tooljunction.io/ai-tools/cheat-layer) |
 | timeOS | • Meeting note automation<br>• Transcription services<br>• Follow-up management | • Project Managers<br>• Team Leaders<br>• Executives | [View Tool](http://www.tooljunction.io/ai-tools/timeos) |
+| Remio | • Local-first AI memory<br>• Personal knowledge base indexing<br>• Agent context retrieval | • Knowledge workers<br>• Researchers<br>• AI agent users | [View Tool](https://remio.ai/) |
 
 ## AI Chatbots & Assistants
 
