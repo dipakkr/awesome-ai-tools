@@ -39,6 +39,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | Dezgo | • High-quality image generation<br>• Inpainting & upscaling<br>• Background removal | • Graphic Designers<br>• Content Creators<br>• Digital Marketers | [View Tool](http://www.tooljunction.io/ai-tools/dezgo) |
 | Craiyon | • Quick image generation<br>• Artistic exploration<br>• Concept visualization | • Artists<br>• Hobbyists<br>• Content Creators | [View Tool](http://www.tooljunction.io/ai-tools/craiyon) |
 | Freepik AI | • Professional visuals<br>• Custom image generation<br>• Marketing graphics | • Graphic Designers<br>• Marketers<br>• Content Creators | [View Tool](http://www.tooljunction.io/ai-tools/freepik-ai-image-generator) |
+| PixGT | • E-commerce product imagery<br>• Clothing try-on & model swap<br>• Accessory try-on & pose variation | • E-commerce Sellers<br>• Product Photographers<br>• Digital Marketers | [View Tool](https://www.pixgt.cn) |
 
 ## Image Enhancement & Editing
 
