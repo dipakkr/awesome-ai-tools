@@ -112,6 +112,8 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | Tool Name | Main Use Cases | Suitable Job Roles | View Tool |
 |-----------|---------------|-------------------|-----------|
 | Skybox AI | • 360° environment creation<br>• VR content<br>• Panoramic scenes | • Game Developers<br>• VR Designers<br>• Architects | [View Tool](http://www.tooljunction.io/ai-tools/skybox-ai) |
+| Image3D AI | • All-in-one AI 3D generation<br>• Multiple AI 3D models<br>• Image-to-3D conversion<br>• AI texturing, retopology & UV unwrapping<br>• 3D model splitting | • 3D Artists<br>• Game Developers<br>• Product Designers<br>• 3D Printing Creators | [View Tool](https://www.aiimageto3d.com/) |
+
 
 ## Academic & Writing
 
