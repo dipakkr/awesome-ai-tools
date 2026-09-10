@@ -106,6 +106,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | ChatHub | • Multi-chatbot interaction<br>• Response comparison<br>• AI communication | • Researchers<br>• Content Creators<br>• Business Analysts | [View Tool](http://www.tooljunction.io/ai-tools/chathub) |
 | GPT4All | • Offline AI processing<br>• Private AI interactions<br>• Local language models | • Privacy Advocates<br>• Developers<br>• Researchers | [View Tool](http://www.tooljunction.io/ai-tools/gpt4all) |
 | Faraday.dev | • Offline LLM usage<br>• Private AI chat<br>• Customizable interactions | • Writers<br>• Educators<br>• Researchers | [View Tool](http://www.tooljunction.io/ai-tools/faraday-dev) |
+| StudyArena | • Compare three AI answers for free<br>• Vote before model names are revealed<br>• Compare explanations to study questions | • Students | [View Tool](https://studyarena.com) |
 
 ## 3D & VR
 
