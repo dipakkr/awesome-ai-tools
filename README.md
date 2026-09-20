@@ -142,5 +142,6 @@ We welcome contributions to this directory! If you know of an AI tool that shoul
 
 
 ## Visit Tool Junction
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 
 For a more interactive experience and detailed information about each tool, visit [Tool Junction](http://www.tooljunction.io).
