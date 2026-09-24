@@ -80,6 +80,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 
 | Tool Name | Main Use Cases | Suitable Job Roles | View Tool |
 |-----------|---------------|-------------------|-----------|
+| Agent QA | • Self-improving QA agent<br>• Web and mobile app testing<br>• Test authoring and result triage | • QA Engineers<br>• Software Developers<br>• SDETs | [View Tool](https://github.com/vostride/agent-qa) |
 | GPT Pilot | • Automated app development<br>• Code generation<br>• Full-stack applications | • Software Developers<br>• Startup Founders<br>• Technical Leads | [View Tool](http://www.tooljunction.io/ai-tools/gpt-pilot) |
 | Cursor | • AI-powered coding<br>• Code refactoring<br>• Natural language coding | • Software Developers<br>• Frontend/Backend Devs<br>• Data Scientists | [View Tool](http://www.tooljunction.io/ai-tools/cursor) |
 | Pinokio | • AI app automation<br>• Local development<br>• One-click setup | • Developers<br>• AI Researchers<br>• Tech Enthusiasts | [View Tool](http://www.tooljunction.io/ai-tools/pinokio) |
