@@ -52,6 +52,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | Tool Name | Main Use Cases | Suitable Job Roles | View Tool |
 |-----------|---------------|-------------------|-----------|
 | RunwayML | • Video generation<br>• Creative editing<br>• Collaborative projects | • Video Editors<br>• Filmmakers<br>• Content Creators | [View Tool](http://www.tooljunction.io/ai-tools/runwayml) |
+| ImagineClip | • Social clip generation<br>• Avatar videos<br>• Stylized AI effects | • Content Creators<br>• Marketers<br>• Social Media Teams | [View Tool](https://imagineclip.com) |
 | Descript | • Video/audio editing<br>• Transcription<br>• Voice cloning | • Content Creators<br>• Podcasters<br>• Video Editors | [View Tool](http://www.tooljunction.io/ai-tools/descript) |
 | Mootion | • Visual storytelling<br>• Script-to-video<br>• Content creation | • Content Creators<br>• Marketers<br>• Storytellers | [View Tool](http://www.tooljunction.io/ai-tools/mootion) |
 | BIGVU | • Teleprompter integration<br>• Professional editing<br>• Caption generation | • Content Creators<br>• Presenters<br>• Marketing Teams | [View Tool](http://www.tooljunction.io/ai-tools/bigvu) |
