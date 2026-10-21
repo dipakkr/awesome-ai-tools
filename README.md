@@ -46,6 +46,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 |-----------|---------------|-------------------|-----------|
 | Palette.fm | • Photo colorization<br>• B&W image enhancement<br>• Color customization | • Photographers<br>• Designers<br>• Archivists | [View Tool](http://www.tooljunction.io/ai-tools/palette-fm) |
 | HitPaw Online | • Photo enhancement<br>• Background removal<br>• Watermark removal | • Content Creators<br>• Photographers<br>• Marketers | [View Tool](http://www.tooljunction.io/ai-tools/hitpaw-online) |
+| Bimg AI Unblur Image | • Unblur and sharpen photos up to 4K<br>• Fix motion blur and soft focus<br>• Restore old photos | • Photographers<br>• E-commerce Sellers<br>• Content Creators | [View Tool](https://bimg.ai/ai-unblur-image) |
 
 ## Video Creation & Editing
 
