@@ -57,6 +57,9 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | BIGVU | • Teleprompter integration<br>• Professional editing<br>• Caption generation | • Content Creators<br>• Presenters<br>• Marketing Teams | [View Tool](http://www.tooljunction.io/ai-tools/bigvu) |
 | Fylm.ai | • Color grading<br>• LUT creation<br>• Team collaboration | • Video Editors<br>• Colorists<br>• Production Teams | [View Tool](http://www.tooljunction.io/ai-tools/fylm-ai) |
 | ImagineClip | • AI video generation<br>• Avatar clips<br>• Stylized social content | • Content Creators<br>• Marketers<br>• Social Media Teams | [View Tool](https://imagineclip.com) |
+| KDA Firestarter AI Dance | • Photo→13s 21:9 solo AI dance<br>• Independent/unofficial | • Content Creators<br>• Social Media | [View Tool](https://kdafirestarterai.dev) |
+| A2O LITE NEON AI Dance | • Two photos→15s neon duo dance<br>• Reference soundtrack | • Content Creators<br>• Marketers | [View Tool](https://a2oliteai.org) |
+| dime dime baby ai | • Photo→~5s 9:16 AI dance<br>• Quince Classic/Party Groove | • Content Creators<br>• Social Media | [View Tool](https://dimedimebabyai.dev) |
 
 ## Audio & Music
 
