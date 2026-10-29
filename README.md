@@ -51,6 +51,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 
 | Tool Name | Main Use Cases | Suitable Job Roles | View Tool |
 |-----------|---------------|-------------------|-----------|
+| [Ideoy](https://ideoy.ai) | Remake this week's viral meme videos from one selfie (MiniMax H3, 9:16) | Freemium | — |
 | RunwayML | • Video generation<br>• Creative editing<br>• Collaborative projects | • Video Editors<br>• Filmmakers<br>• Content Creators | [View Tool](http://www.tooljunction.io/ai-tools/runwayml) |
 | Descript | • Video/audio editing<br>• Transcription<br>• Voice cloning | • Content Creators<br>• Podcasters<br>• Video Editors | [View Tool](http://www.tooljunction.io/ai-tools/descript) |
 | Mootion | • Visual storytelling<br>• Script-to-video<br>• Content creation | • Content Creators<br>• Marketers<br>• Storytellers | [View Tool](http://www.tooljunction.io/ai-tools/mootion) |
