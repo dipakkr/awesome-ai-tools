@@ -52,6 +52,9 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | Tool Name | Main Use Cases | Suitable Job Roles | View Tool |
 |-----------|---------------|-------------------|-----------|
 | RunwayML | • Video generation<br>• Creative editing<br>• Collaborative projects | • Video Editors<br>• Filmmakers<br>• Content Creators | [View Tool](http://www.tooljunction.io/ai-tools/runwayml) |
+| [PromptImage](https://promptimage.cloud) | Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium | Freemium | [Visit](https://promptimage.cloud) |
+| [TeslaWraps](https://teslawraps.design) | Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit… | Freemium | [Visit](https://teslawraps.design) |
+| [GrokVideo Studio](https://grokvideogenerator.dev) | Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official … | Freemium | [Visit](https://grokvideogenerator.dev) |
 | Descript | • Video/audio editing<br>• Transcription<br>• Voice cloning | • Content Creators<br>• Podcasters<br>• Video Editors | [View Tool](http://www.tooljunction.io/ai-tools/descript) |
 | Mootion | • Visual storytelling<br>• Script-to-video<br>• Content creation | • Content Creators<br>• Marketers<br>• Storytellers | [View Tool](http://www.tooljunction.io/ai-tools/mootion) |
 | BIGVU | • Teleprompter integration<br>• Professional editing<br>• Caption generation | • Content Creators<br>• Presenters<br>• Marketing Teams | [View Tool](http://www.tooljunction.io/ai-tools/bigvu) |
