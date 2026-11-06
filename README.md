@@ -58,6 +58,9 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | [Alors On Danse Video Maker](https://alorsondansevideo.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://alorsondansevideo.com) |
 | [Bad Times AI](https://badtimesai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://badtimesai.dev) |
 | [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://ifoundyouinthecrowdai.com) |
+| [KDA Firestarter AI Dance AI Dance Dance](https://kdafirestarterai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://kdafirestarterai.dev) |
+| [A2O LITE NEON AI Dance AI Dance](https://a2oliteai.org) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://a2oliteai.org) |
+| [dime dime baby ai](https://dimedimebabyai.dev) | Independent web app for text/image-to-video via AI photo-to-video. Not an official … | Paid | [Visit](https://dimedimebabyai.dev) |
 | Descript | • Video/audio editing<br>• Transcription<br>• Voice cloning | • Content Creators<br>• Podcasters<br>• Video Editors | [View Tool](http://www.tooljunction.io/ai-tools/descript) |
 | Mootion | • Visual storytelling<br>• Script-to-video<br>• Content creation | • Content Creators<br>• Marketers<br>• Storytellers | [View Tool](http://www.tooljunction.io/ai-tools/mootion) |
 | BIGVU | • Teleprompter integration<br>• Professional editing<br>• Caption generation | • Content Creators<br>• Presenters<br>• Marketing Teams | [View Tool](http://www.tooljunction.io/ai-tools/bigvu) |
