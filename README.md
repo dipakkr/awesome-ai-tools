@@ -52,6 +52,8 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | Tool Name | Main Use Cases | Suitable Job Roles | View Tool |
 |-----------|---------------|-------------------|-----------|
 | RunwayML | • Video generation<br>• Creative editing<br>• Collaborative projects | • Video Editors<br>• Filmmakers<br>• Content Creators | [View Tool](http://www.tooljunction.io/ai-tools/runwayml) |
+| Cyanvid | • Text/image to video<br>• Credit quotes upfront<br>• Creator/marketer focus | • Content Creators<br>• Marketers<br>• Video Editors | [View Tool](https://cyanvid.com/?utm_source=dipakkr-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) |
+| Barz Studio | • Rap lyric videos<br>• Beat-reactive captions<br>• Free browser 9:16 WebM | • Musicians<br>• Content Creators<br>• Social Media Teams | [View Tool](https://barzvideo.com/?utm_source=dipakkr-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) |
 | Descript | • Video/audio editing<br>• Transcription<br>• Voice cloning | • Content Creators<br>• Podcasters<br>• Video Editors | [View Tool](http://www.tooljunction.io/ai-tools/descript) |
 | Mootion | • Visual storytelling<br>• Script-to-video<br>• Content creation | • Content Creators<br>• Marketers<br>• Storytellers | [View Tool](http://www.tooljunction.io/ai-tools/mootion) |
 | BIGVU | • Teleprompter integration<br>• Professional editing<br>• Caption generation | • Content Creators<br>• Presenters<br>• Marketing Teams | [View Tool](http://www.tooljunction.io/ai-tools/bigvu) |
