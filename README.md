@@ -124,6 +124,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | Tool Name | Main Use Cases | Suitable Job Roles | View Tool |
 |-----------|---------------|-------------------|-----------|
 | GeoSpy AI | • Image location analysis<br>• Geographic verification<br>• Investigation support | • Researchers<br>• Investigators<br>• Journalists | [View Tool](http://www.tooljunction.io/ai-tools/geospy-ai) |
+| ORANO | • Searchable summaries of saved videos and articles<br>• Step-by-step plans for tutorials | • Learners<br>• Knowledge management<br>• Personal productivity | [View Tool](https://oranoai.com) |
 
 ---
 
