@@ -57,6 +57,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | BIGVU | • Teleprompter integration<br>• Professional editing<br>• Caption generation | • Content Creators<br>• Presenters<br>• Marketing Teams | [View Tool](http://www.tooljunction.io/ai-tools/bigvu) |
 | Fylm.ai | • Color grading<br>• LUT creation<br>• Team collaboration | • Video Editors<br>• Colorists<br>• Production Teams | [View Tool](http://www.tooljunction.io/ai-tools/fylm-ai) |
 | ImagineClip | • AI video generation<br>• Avatar clips<br>• Stylized social content | • Content Creators<br>• Marketers<br>• Social Media Teams | [View Tool](https://imagineclip.com) |
+| makeaicreator | • Face-consistent AI influencer photos<br>• Voiceover videos<br>• Product-placement scenes | • Content Creators<br>• Marketers<br>• Social Media Teams | [View Tool](https://makeaicreator.com) |
 
 ## Audio & Music
 
