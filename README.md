@@ -124,6 +124,7 @@ Whether you're a developer, designer, marketer, or content creator, we help you 
 | Tool Name | Main Use Cases | Suitable Job Roles | View Tool |
 |-----------|---------------|-------------------|-----------|
 | GeoSpy AI | • Image location analysis<br>• Geographic verification<br>• Investigation support | • Researchers<br>• Investigators<br>• Journalists | [View Tool](http://www.tooljunction.io/ai-tools/geospy-ai) |
+| [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) | 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts |  |  |
 
 ---
 
